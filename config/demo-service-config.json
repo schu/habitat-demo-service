@@ -1,0 +1,4 @@
+{
+	"addr": "{{cfg.addr}}",
+	"message-file": "{{cfg.message-file}}"
+}
