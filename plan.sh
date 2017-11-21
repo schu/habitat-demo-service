@@ -1,6 +1,6 @@
 pkg_name=demo-service
 pkg_origin=schu
-pkg_version=0.9.0
+pkg_version=0.10.0
 pkg_description="Habitat demo service"
 pkg_maintainer="schu"
 pkg_deps=("core/glibc")
